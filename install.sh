@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ADMIN_WHATSAPP_NUMBER="79105052657"
+ADMIN_WHATSAPP_NUMBER="6282224229036"
 
 WHATSAPP_FILE="/var/whatsapp_number.txt"
 LICENSE_FILE="/var/license.txt"
@@ -55,8 +55,8 @@ echo "|  _ <| |___ / /_ / /_  /  \\"
 echo "|_| \_\_____/____/____|/_/\_\\"
 echo -e "\033[0m"
 echo -e "${RED}𝗢𝗪𝗡𝗘𝗥${RESET}${BLUE}𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥${RESET}"
-echo -e "\033[32mWHATSAPP RAINMC : 085263390832\033[0m"
-echo -e "\033[31mYOUTUBE RAINMC : RAINMC\033[0m"
+echo -e "\033[32mWHATSAPP NOTH-HDR : 082224229036\033[0m"
+echo -e "\033[31mYOUTUBE NOTH-HDR : NOTH-HDR\033[0m"
 echo ""
 echo -e "${ORANGE}𝗖𝗢-𝗢𝗪𝗡𝗘𝗥${RESET}${BLUE}𝗡𝗔𝗩𝗜𝗚𝗔𝗧𝗢𝗥${RESET}"
 echo -e "\033[32mWHATSAPP REZZX : 089617554095\033[0m"
@@ -120,7 +120,7 @@ case "$OPTION" in
         GITHUB_TOKEN="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"
 
         # Clone repositori menggunakan token
-        REPO_URL="https://github.com/LeXcZxMoDz9/folderr.git"
+        REPO_URL="https://github.com/NothHDR/folderr.git"
         TEMP_DIR="folderr"
 
         # Mengkloning repositori
@@ -159,7 +159,7 @@ case "$OPTION" in
         GITHUB_TOKEN="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"
 
         # Clone repositori menggunakan token
-        REPO_URL="https://github.com/LeXcZxMoDz9/folderr.git"
+        REPO_URL="https://github.com/NothHDR/folderr.git"
         TEMP_DIR="folderr"
 
         # Mengkloning repositori
@@ -205,7 +205,7 @@ fi
     GITHUB_TOKEN="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"
 
     # Clone repositori menggunakan token
-    REPO_URL="https://github.com/LeXcZxMoDz9/folderr.git"
+    REPO_URL="https://github.com/NothHDR/folderr.git"
     TEMP_DIR="folderr"
 
     # Mengkloning repositori
@@ -230,7 +230,7 @@ fi
     GITHUB_TOKEN="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"
 
     # Clone repositori menggunakan token
-    REPO_URL="https://github.com/LeXcZxMoDz9/folderr.git"
+    REPO_URL="https://github.com/NothHDR/folderr.git"
     TEMP_DIR="folderr"
 
     # Mengkloning repositori
@@ -286,7 +286,7 @@ cd /var/www/
 GITHUB_TOKEN="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"
 
 # Clone repositori menggunakan token
-REPO_URL="https://github.com/LeXcZxMoDz9/folderr.git"
+REPO_URL="https://github.com/NothHDR/folderr.git"
 TEMP_DIR="folderr"
 
 # Mengkloning repositori
@@ -469,7 +469,7 @@ fi
         GITHUB_TOKEN="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"
 
         # Clone repositori menggunakan token
-        REPO_URL="https://github.com/LeXcZxMoDz9/folderr.git"
+        REPO_URL="https://github.com/NothHDR/folderr.git"
         TEMP_DIR="folderr"
 
         # Mengkloning repositori
@@ -532,7 +532,7 @@ fi
 GITHUB_TOKEN="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"
 
 # Clone repositori menggunakan token
-REPO_URL="https://github.com/LeXcZxMoDz9/folderr.git"
+REPO_URL="https://github.com/NothHDR/folderr.git"
 TEMP_DIR="folderr"
 
 # Mengkloning repositori
