@@ -117,7 +117,7 @@ read -p "PILIH OPSI (1-16): " OPTION
 case "$OPTION" in
     1)
         # Masukkan token GitHub langsung di sini
-        GITHUB_TOKEN="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"
+        GITHUB_TOKEN="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"
 
         # Clone repositori menggunakan token
         REPO_URL="https://github.com/NothHDR/folderr.git"
@@ -156,7 +156,7 @@ case "$OPTION" in
         ;;
     4)
         # Masukkan token GitHub langsung di sini
-        GITHUB_TOKEN="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"
+        GITHUB_TOKEN="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"
 
         # Clone repositori menggunakan token
         REPO_URL="https://github.com/NothHDR/folderr.git"
@@ -202,7 +202,7 @@ if [ ! -f "$BLUEPRINT_FILE" ]; then
 fi
 
 # Masukkan token GitHub langsung di sini
-    GITHUB_TOKEN="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"
+    GITHUB_TOKEN="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"
 
     # Clone repositori menggunakan token
     REPO_URL="https://github.com/NothHDR/folderr.git"
@@ -227,7 +227,7 @@ if [ ! -f "$BLUEPRINT_FILE" ]; then
     exit 1
 fi
 # Masukkan token GitHub langsung di sini
-    GITHUB_TOKEN="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"
+    GITHUB_TOKEN="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"
 
     # Clone repositori menggunakan token
     REPO_URL="https://github.com/NothHDR/folderr.git"
@@ -466,7 +466,7 @@ fi
  ;;
     5)
      # Masukkan token GitHub langsung di sini
-        GITHUB_TOKEN="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"
+        GITHUB_TOKEN="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"
 
         # Clone repositori menggunakan token
         REPO_URL="https://github.com/NothHDR/folderr.git"
@@ -529,7 +529,7 @@ if [ ! -f "$BLUEPRINT_FILE" ]; then
 fi
 
 # Masukkan token GitHub langsung di sini
-GITHUB_TOKEN="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"
+GITHUB_TOKEN="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"
 
 # Clone repositori menggunakan token
 REPO_URL="https://github.com/NothHDR/folderr.git"
